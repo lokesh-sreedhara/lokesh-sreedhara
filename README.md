@@ -1,4 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
+
+---
+
+
 <a href="https://github.com/lokesh-sreedhara/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lokesh-sreedhara&show_icons=true" />
 </a>
@@ -8,7 +16,7 @@
 </a>
 <!--
 **lokesh-sreedhara/lokesh-sreedhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
